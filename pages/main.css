@@ -1,10 +1,12 @@
 /* use normalize.css */
 @import url('../vender/normalize.css');
 
-@import url('../blocks/font-face/font-face.css');
-
 /* css for all page */
 @import url('../blocks/page/page.css');
+
+/* for header navigation */
+@import url('../blocks/navigation/navigation.css');
+@import url('../blocks/navigation/__link/navigation__link.css');
 
 /* for header */
 
@@ -23,10 +25,6 @@
 @import url('../blocks/header/__social-links/header__social-links.css');
 @import url('../blocks/header/__social-logo/header__social-logo.css');
 @import url('../blocks/header/__social-link/header__social-link.css');
-
-/* for header navigation */
-@import url('../blocks/navigation/navigation.css');
-@import url('../blocks/navigation/__link/navigation__link.css');
 
 /* import @keyframes */
 @import url('../blocks/keyframes/keyframes.css');
@@ -52,8 +50,11 @@
 @import url('../blocks/menu/__subtitle/menu__subtitle.css');
 @import url('../blocks/menu/__links/menu__links.css');
 @import url('../blocks/menu/__link/menu__link.css');
-@import url('../blocks/menu/__price/menu__price.css');
-@import url('../blocks/menu/__price-section/menu__price-section.css');
+@import url('../blocks/menu-table/menu-table.css');
+@import url('../blocks/menu-table/__item/menu-table__item.css');
+@import url('../blocks/menu-table/__price/menu-table__price.css');
+@import url('../blocks/menu-table/__product-composition/menu-table__product-composition.css');
+
 
 /* Photo-gallery slidfer*/
 @import url('../blocks/photo-gallery/photo-gallery.css');

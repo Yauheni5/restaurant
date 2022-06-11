@@ -1,0 +1,10 @@
+.menu-table__item {
+  width: 363px;
+  box-sizing: border-box;
+  font-family: 'Banny';
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
