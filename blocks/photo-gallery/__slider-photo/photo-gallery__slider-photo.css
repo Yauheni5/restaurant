@@ -1,0 +1,7 @@
+.photo-gallery__slider-photo {
+  width: 50%;
+}
+
+.photo-gallery__slider-photo:hover {
+  animation: sliderPhoto 3s linear 1s;
+}

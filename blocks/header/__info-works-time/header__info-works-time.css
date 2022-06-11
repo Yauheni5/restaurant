@@ -1,0 +1,10 @@
+.header__info-works-time {
+  writing-mode: vertical-lr;
+  overflow: visible;
+  display: flex;
+  transform: rotate(180deg);
+  margin: 0;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 12px;
+}

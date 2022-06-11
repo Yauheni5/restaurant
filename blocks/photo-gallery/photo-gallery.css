@@ -1,0 +1,6 @@
+.photo-gallery {
+  margin-top: 87px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 80px;
+}

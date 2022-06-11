@@ -1,0 +1,7 @@
+.header {
+  min-height: 100vh;
+  padding: 0 80px;
+  background: url('../../images/footer_image/header-bg.png') no-repeat;
+  background-size: 100%;
+  color: #FFFFFF;
+}

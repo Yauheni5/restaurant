@@ -1,0 +1,5 @@
+.section-about {
+  margin: 100px auto 189px;
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,13 @@
+.header__link-down {
+  background-color:white;
+  border-radius: 100%;
+  background-image: url('../../../images/header_image/arrowDown.png');
+  background-repeat: no-repeat;
+  background-position: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.header__link-down:hover {
+  animation: scaleX2 linear 6s infinite;
+}

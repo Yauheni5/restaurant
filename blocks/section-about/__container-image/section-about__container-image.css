@@ -1,0 +1,9 @@
+.section-about__container-image {
+  width: 475px;
+  height: 475px;
+  position: relative;
+  background-image: url('../../../images/main_image/about-img\ -bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}

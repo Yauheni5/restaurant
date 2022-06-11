@@ -1,0 +1,5 @@
+.section-about__square {
+  position: relative;
+  left: 50%;
+  animation: rotateInfinite linear 20s infinite;
+}

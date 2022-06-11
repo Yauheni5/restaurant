@@ -1,0 +1,60 @@
+/* use normalize.css */
+@import url('../vender/normalize.css');
+
+@import url('../blocks/font-face/font-face.css');
+
+/* css for all page */
+@import url('../blocks/page/page.css');
+
+/* for header */
+
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__vector/header__vector.css');
+@import url('../blocks/header/__navigation/header__navigation.css');
+@import url('../blocks/header/__main/header__main.css');
+@import url('../blocks/header/__info-works-time/header__info-works-time.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__main-text/header__main-text.css');
+@import url('../blocks/header/__main-title/header__main-title.css');
+@import url('../blocks/header/__line-title/header__line-title.css');
+@import url('../blocks/header/__main-links/header__main-links.css');
+@import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/header/__link-down/header__link-down.css');
+@import url('../blocks/header/__social-links/header__social-links.css');
+@import url('../blocks/header/__social-logo/header__social-logo.css');
+@import url('../blocks/header/__social-link/header__social-link.css');
+
+/* for header navigation */
+@import url('../blocks/navigation/navigation.css');
+@import url('../blocks/navigation/__link/navigation__link.css');
+
+/* import @keyframes */
+@import url('../blocks/keyframes/keyframes.css');
+
+/*import title with bottom border*/
+@import url('../blocks/main-title/main-title.css');
+@import url('../blocks/line-title/line-title.css');
+
+/*import section-about*/
+@import url('../blocks/section-about/section-about.css');
+@import url('../blocks/section-about/__container-text/section-about__container-text.css');
+@import url('../blocks/section-about/__main-title/section-about__main-title.css');
+@import url('../blocks/section-about/__text/section-about__text.css');
+@import url('../blocks/section-about/__container-image/section-about__container-image.css');
+@import url('../blocks/section-about/__square/section-about__square.css');
+
+/*import subtitle-text*/
+@import url('../blocks/subtitle-text/subtitle-text.css');
+
+/* import section menu*/
+@import url('../blocks/menu/menu.css');
+@import url('../blocks/menu/__title/menu__title.css');
+@import url('../blocks/menu/__subtitle/menu__subtitle.css');
+@import url('../blocks/menu/__links/menu__links.css');
+@import url('../blocks/menu/__link/menu__link.css');
+@import url('../blocks/menu/__price/menu__price.css');
+@import url('../blocks/menu/__price-section/menu__price-section.css');
+
+/* Photo-gallery slidfer*/
+@import url('../blocks/photo-gallery/photo-gallery.css');
+@import url('../blocks/photo-gallery/__slider-photo/photo-gallery__slider-photo.css');

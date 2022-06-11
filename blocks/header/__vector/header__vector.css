@@ -1,0 +1,10 @@
+.header__vector {
+  margin-top: 25px;
+  width: 150px;
+  height: 150px;
+}
+
+/* connection of the rotation of the ship's steering wheel */
+.header__vector:hover {
+  animation: rotate360 linear 3s infinite;
+}
