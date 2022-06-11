@@ -1,6 +1,7 @@
 .menu-table {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   margin-top: 51px;
   flex-wrap: wrap;
   gap: 10px 20px;
