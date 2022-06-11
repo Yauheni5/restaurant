@@ -56,6 +56,9 @@
 @import url('../blocks/menu-table/__product-composition/menu-table__product-composition.css');
 
 
-/* Photo-gallery slidfer*/
+/* Photo-gallery slider*/
 @import url('../blocks/photo-gallery/photo-gallery.css');
 @import url('../blocks/photo-gallery/__slider-photo/photo-gallery__slider-photo.css');
+
+/*footer*/
+@import url('../blocks/footer/footer.css');
